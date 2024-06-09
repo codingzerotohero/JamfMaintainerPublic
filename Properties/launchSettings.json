@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JamfMaintainer": {
+      "commandName": "Project",
+      "commandLineArgs": "fullrun"
+    }
+  }
+}
