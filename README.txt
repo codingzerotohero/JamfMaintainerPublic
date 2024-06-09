@@ -5,7 +5,7 @@ The real fun happens in Processor.cs - if you want to see what it's actually doi
 
 It gets user information from specified SQL tables, processes them and applies business logic depending on role etc, then creates/updates them in the Jamf API, as well as keeping track of the users and groups by storing them in an SQLite archive, so we can fetch users from there when we want to update them in the Jamf API as we need to have the Jamf generated user ID whenever we want to update a user.
 
-Also includes an AppSettings.xml for certain sensitive values which can change depending on the customer.
+AppSettings.xml not included. Must be supplied for this to run.
 
 Can run in two different ways:
 -Console mode (which has several different use cases depending on what you want to do)

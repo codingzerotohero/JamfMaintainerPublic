@@ -32,3 +32,6 @@ $RECYCLE.BIN/
 .vs/
 
 Properties/
+
+#Ignore solution
+.snl
