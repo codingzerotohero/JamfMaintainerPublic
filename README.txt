@@ -1,5 +1,3 @@
-This is a Windows service I wrote which is currently in production for some customer which use Jamf School for device management of students and teachers iPads on different schools.
-
 The real fun happens in Processor.cs - if you want to see what it's actually doing.
 -Program.cs is mainly just starting up in Service mode or in Console Mode.
 
